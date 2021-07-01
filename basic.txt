@@ -1,1 +1,1 @@
-Course Name : LEarning SQL for Data Analytics
+Course Name : Learning SQL for Data Analytics
